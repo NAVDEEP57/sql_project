@@ -1,0 +1,51 @@
+
+Name of student is 
+Email - 
+Phone number 
+Name of student is 
+Email - 
+Phone number 
+Email - 
+Phone number nkmJNVDVNDINJNVDVNDIN
+name of student-nidhsnt
+email-hello
+phone number-{str(num)}
+name of student-nisjs
+email-d
+phone number-{num}
+name of student-jdsdk
+email-dfkjfk
+phone number-dfkjfk
+name of student-vvf
+email-ddi
+phone number-ddi
+name of student-vvf
+email-ddi
+phone number-ddi
+name of student-vvf
+email-ddi
+phone number-ddi
+name of student-vvf
+email-ddi
+phone number-ddi
+name of student-vvf
+email-ddi
+phone number-ddi
+name of student-gthg
+email-44tgerhtrrh
+phone number-44tgerhtrrh
+name of student-nishant
+email-7027080875
+phone number-7027080875
+name of student-heloo
+email-uufdfhfj
+phone number-uufdfhfj
+name of student-nishant
+email-dvi
+phone number-dvi
+name of student-nishant
+email-1234568904
+phone number-1234568904
+name of student-
+email-
+phone number-

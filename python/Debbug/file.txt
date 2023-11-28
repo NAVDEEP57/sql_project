@@ -1,0 +1,25 @@
+Name:jkj
+email:nkmsaiif
+Mobile:dfef
+Course:Python
+Time:2022-09-06 13:30:22.077521
+*********
+Name:nishant
+email:nkmanithia@gmail.com
+Mobile:8168782648
+Course:Python
+Time:2022-09-06 13:40:23.544504
+*********
+Name:dhffdf
+email:dfd
+Mobile:342837
+Course:Python
+Time:2022-09-06 13:43:34.349466
+*********
+
+Name:nishant
+email:nkmanithia@gmail.com
+Mobile:8168782648
+Course:Python
+Time:2022-09-06 13:53:23.557138
+*********

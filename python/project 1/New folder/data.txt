@@ -1,0 +1,152 @@
+
+Name of student is nishant
+Email - nkmanithia@gmail.com
+Phone number 7027080875
+Slected course - python
+Total fees - 22400.0
+---------------------------------
+Name of student is mohit
+Email - mohittanwer@gmail.com
+Phone number 8168782648
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is nk
+Email - @gmail.com
+Phone number 2323232323
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is nishant
+Email - nkmanithia@gmail.com
+Phone number 7027080875
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is Parmod
+Email - parmod@gmail.com
+Phone number 9866543223
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is Ayush
+Email - ayushmishra538@gmail.com
+Phone number 9454785542
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is nishant
+Email - nkm@gmail.in
+Phone number 7023020329
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is nishant
+Email - nkm@outlook.com
+Phone number 2323234545
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+
+Name of student is ni
+Email - nkm@gmail.com
+Phone number 2335678906
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is bg
+Email - nkm@gmail.com
+Phone number 2345678901
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is nishant
+Email - nkm@gmail.com
+Phone number 1234567890
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is rekha
+Email - rekhamanithia@gmail.com
+Phone number 7027080875
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is nisahnt
+Email - nkmanithia@gmail.cm
+Phone number 7027773424
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is gfh
+Email - nkm@gmail.com
+Phone number 1234567890
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is nisj
+Email - nkm@gmail.com
+Phone number 1234567890
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is PARMOD
+Email - pgyjk@gmail.c
+Phone number 3456678907
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is erty
+Email - xcv@gmail.c
+Phone number 1234567890
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is qwerty
+Email - asdfgh@gmail.c
+Phone number 1234567890
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is davi
+Email - dvisce@gmil.c
+Phone number 9713508980
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is nishan
+Email - nkm@gmail.c
+Phone number 1234567890
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
+Name of student is nishant 
+Email - nkmanithia@gmail.c
+Phone number 2345678901
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is nishant
+Email - nkma@gmail.c
+Phone number 1234568904
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is nishant
+Email - nkmanithi@gmail.c
+Phone number 1234567890
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is mansi 
+Email - mnmisara@gmail.c
+Phone number 1234568923
+Slected course - python
+Total fees - 22400.0
+-------------------------------------
+Name of student is nisahtn
+Email - nkm@gmail.c
+Phone number 1234567890
+Slected course - java
+Total fees - 25760.0
+-------------------------------------
