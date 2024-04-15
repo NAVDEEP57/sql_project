@@ -313,7 +313,7 @@ order by 2 desc limit 9;
 
 -- Ans: Based on the Analysis of the IMBd Movies, the recommendations for the types of content Bolly Movies should focus on producing is:-
 
---           1. The 'Triller' genre has caught the highest attention and interest amongst the audience as the amount of 'Thriller' movies watched is good,
+--           1. The 'Thriller' genre has caught the highest attention and interest amongst the audience as the amount of 'Thriller' movies watched is good,
 -- 	         so the Bollywood movie production houses should keep their interest towards producing more 'Thriller' genre movies. 
 --        
 --           2. The 'Drama' genre has gained the overall average highest IMDb rating by the audience, so the Bollywood movies production houses 
